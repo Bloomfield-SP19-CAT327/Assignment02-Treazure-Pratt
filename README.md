@@ -18,4 +18,4 @@ _This is Italic_
 1. Ordered
 2. List
 
-[Links] (https://www.serebii.net/index2.shtml)
+https://www.serebii.net/index2.shtml
