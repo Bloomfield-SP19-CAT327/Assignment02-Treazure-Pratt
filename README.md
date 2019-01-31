@@ -10,6 +10,8 @@
 
 _This is Italic_
 
+**_This is Bold and Italic
+
 - Unordered
 - List
 
