@@ -10,7 +10,7 @@
 
 _This is Italic_
 
-**_This is Bold and Italic
+**_This is Bold and Italic_**
 
 - Unordered
 - List
