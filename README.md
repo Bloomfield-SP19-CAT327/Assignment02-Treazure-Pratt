@@ -9,3 +9,9 @@
 **This is BOLD**
 
 _This is Italic_
+
+- Unordered
+- List
+
+1. Ordered
+2. List
