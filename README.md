@@ -8,4 +8,4 @@
 
 **This is BOLD**
 
---This is Italic--
+_This is Italic_
